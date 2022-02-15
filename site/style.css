@@ -1,0 +1,16 @@
+.imagem-carrossel {
+    object-fit: cover;
+    object-position: 0 60%;
+    height: 800px;
+}
+
+.fonte-titulo {
+    font-family: 'Bebas Neue', cursive;
+}
+.cor-especial {
+    color: blue;
+}
+
+.cor-titulo{
+    color: black;
+}
